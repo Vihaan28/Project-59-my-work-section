@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background: linear-gradient(#ffc800 0%, #e3d912 100%);
+    scroll-behavior: smooth;
+}
+
+img{
+    width: 200px;
+}
+
+ul{
+    text-align: left;
+}
+
+.projectlinks{
+    font-family: fantasy;
+    padding-bottom: 20px;
+    padding-top: 15px;
+    color:darkorchid;
+}
+
+.projectlinks:hover{
+    font-style: italic;
+    font-size: 20px;
+}
